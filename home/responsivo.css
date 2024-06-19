@@ -1,0 +1,61 @@
+@media (max-width: 768px) {
+    .navbar-nav .nav-link {
+      padding: 10px;
+    }
+  
+    .titulo h2 {
+      font-size: 28px;
+    }
+  
+    .titulo h6 {
+      font-size: 18px;
+    }
+  
+    .container-input span {
+      font-size: 18px;
+    }
+  
+    .button-cta {
+      height: 35px;
+      font-size: 18px;
+    }
+  }
+  
+  @media (max-width: 576px) {
+    .navbar-brand {
+      margin-left: 20px;
+    }
+
+    #body {
+      width: 70%;
+    }
+  
+    .titulo h2 {
+      font-size: 28px;
+    }
+  
+    .titulo h6 {
+      font-size: 18px;
+    }
+  
+    .container-input span {
+      font-size: 18px;
+    }
+  
+    .slider {
+      height: 14px;
+    }
+  
+    .button-cta {
+      height: 30px;
+      font-size: 16px;
+    }
+  
+    .password {
+      height: 50px;
+    }
+
+    #nav{
+        justify-content: space-between;
+    }
+  }

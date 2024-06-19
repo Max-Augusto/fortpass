@@ -1,0 +1,44 @@
+.titulo {
+    max-width: 60%;
+    text-align: center;
+    margin: 50px auto;
+}
+
+.cards-x {
+    /* border: 1px solid red; */
+    margin: 0 auto;
+    width: 80%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.card-x {
+    border: 1px solid #000;
+    width: 30%;
+    height: 360px;
+    text-align: center;
+}
+
+.conteudo-card {
+    margin-top: 40%;
+}
+
+.cards-y {
+    /* border: 1px solid #000; */
+    margin-left: 13%;
+    width: 40%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.card-y {
+    border: 1px solid #000;
+    margin-bottom: 5%;
+    height: 10%;
+    padding: 20px;
+}
+
+.navbar-brand {
+    margin-left: 100px;
+}
